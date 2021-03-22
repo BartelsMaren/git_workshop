@@ -34,3 +34,7 @@ Use this file to make a series of changes to be version controlledby Git and/or 
 10. Summer is the coldest season in the Northern hemisphere.
 
 
+
+
+
+New note
