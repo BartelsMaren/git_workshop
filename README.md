@@ -27,7 +27,7 @@ Use this file to make a series of changes to be version controlledby Git and/or 
 3. This workshop is organised by the University of Zurich.
 4. March is the second month of the year.
 5. We are in year 2025.
-6. The Guardian is a newspaper from Germany.
+6. The Guardian is a newspaper from England.
 7. This is a face-to-face workshop.
 8. Water boils at 0 degree celcius.
 9. The sun rises in the west and sets in the east.
